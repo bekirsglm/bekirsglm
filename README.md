@@ -1,7 +1,17 @@
 # Hi👋 I'm Bekir Sağlam
 
-# 💫 About Me:
-I'm currently learning Front-End.<br>I'm fully motivated about learning software and improving myself<br>The projects I have done was created using HTML and CSS<br>My first priority is to learn it thoroughly to make my projects short and concise<br>I'm looking forward to new projects to gather experience and new knowledge<br>
+# About Me
+Frontend Developer | React • Next.js • TypeScript
+
+I'm a Frontend Developer focused on building modern, performance-oriented, and scalable web interfaces.  
+I care about UI/UX details, component-based architecture, and clean, maintainable code.
+
+- ⚛️ React, Next.js, TypeScript
+- 🎨 HTML5, CSS3, Tailwind CSS, responsive designs
+- 🧠 Redux Toolkit, state management
+- 🔌 REST API integration, basic authentication flows
+- 🧩 Component-based architecture
+- 🚀 Performance optimization, basic SEO (Next.js), accessibility awareness
 
 
 ## 🌐 Socials:
